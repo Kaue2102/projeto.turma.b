@@ -7,7 +7,7 @@ Endereço: XXXXX - Marília - SP
 ---
 
 
-Experiencia:Estudante
+
 
 ---
 
