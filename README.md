@@ -1,11 +1,11 @@
 # Kaue Russo
   
-RG: XX.XXX.XXX-X
+Cidade: Marilia
 ---
-CPF: XXX.XXX.XXX/XX
+ UF: SSP
 ---
 
-Endereço: XXXXX - Marília - SP
+Endereço: XXXXX - 
 
 ---
 
@@ -20,6 +20,6 @@ Pamonho da zona sul
  
  EMAIL: kauerusso21@gmail.com
 
- Cidade: Marilia
+ RG: XX.XXX.XXX-X
 
- UF: SSP
+ CPF: XXX.XXX.XXX/XX
