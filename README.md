@@ -10,7 +10,7 @@ Endereço: XXXXX -
 ---
 
 
-Experiencia:Estudante
+Experiencia: Nenhuma
 
 ---
 
