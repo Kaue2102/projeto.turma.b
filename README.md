@@ -22,4 +22,4 @@ Pamonho da zona sul
 
  cidade: Marilia
 
- UF: SP
+ UF: SSP
