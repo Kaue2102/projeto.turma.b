@@ -21,3 +21,5 @@ Pamonho da zona sul
  EMAIL: kauerusso21@gmail.com
 
  cidade: Marilia
+
+ UF: SP
