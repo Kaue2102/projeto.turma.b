@@ -15,3 +15,7 @@ Experiencia:Estudante
 ---
 
 Pamonho da zona sul
+ 
+ ---
+ 
+ EMAIL: kauerusso21@gmail.com
